@@ -1,8 +1,8 @@
 # 01-05-02-if-elagazas-3
 ## Egyágú elágazás
-1. feladat
+1. feladat  
 Kérje be a felhasználótól a diák jegyét! Ha a diák jegye kisebb mint egy vagy nagyobb mint öt, írja ki, hogy ilyen jegy nem létezik!  
-2. feladat
+2. feladat  
 Kérje be a felhasználótól a következő adatokat: az autó tankjának méretét, mennyi benzin van a tartályba és, hogy mennyit szeretne tankolni! Ha többet szeretne tankolni, mint amennyi elfér a tartályba írja ki a következő üzenetet: „Ennyi üzemanyagot nem lehet tankolni”!  
 3. feladat  
 Kérjen be a felhasználótól két számot!  
